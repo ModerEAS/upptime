@@ -18,6 +18,12 @@ sites:
     url: https://bitwarden.miaostay.com
   - name: Miao Stay Jellyfin
     url: https://jellyfin.miaostay.com
+  - name: Miao Stay Seedbox
+    url: https://sbpar.miaostay.com
+  - name: Miao Stay Paris
+    url: https://par.miaostay.com
+  - name: Miao Stay Grafana
+    url: https://grafana.miaostay.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
