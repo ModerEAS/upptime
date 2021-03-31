@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/miaostay.com",
     "slug": "miao-stay-blog",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.88%",
-    "time": 1052,
-    "timeDay": 1002,
-    "timeWeek": 1213,
-    "timeMonth": 1049,
-    "timeYear": 1052,
-    "dailyMinutesDown": {
-      "2021-03-15": 200
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1053,
+    "timeDay": 1168,
+    "timeWeek": 1129,
+    "timeMonth": 1053,
+    "timeYear": 1053,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Miao Stay Games",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/flash.miaostay.com",
     "slug": "miao-stay-games",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.88%",
-    "time": 133,
-    "timeDay": 243,
-    "timeWeek": 238,
-    "timeMonth": 182,
-    "timeYear": 133,
-    "dailyMinutesDown": {
-      "2021-03-15": 200
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 134,
+    "timeDay": 311,
+    "timeWeek": 240,
+    "timeMonth": 186,
+    "timeYear": 134,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Miao Stay Books",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/books.miaostay.com",
     "slug": "miao-stay-books",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.88%",
-    "time": 1849,
-    "timeDay": 1880,
-    "timeWeek": 1874,
-    "timeMonth": 1838,
-    "timeYear": 1849,
-    "dailyMinutesDown": {
-      "2021-03-15": 200
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1850,
+    "timeDay": 2006,
+    "timeWeek": 1747,
+    "timeMonth": 1843,
+    "timeYear": 1850,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Miao Stay CI",
@@ -65,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/ci.miaostay.com",
     "slug": "miao-stay-ci",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.88%",
-    "time": 661,
-    "timeDay": 867,
-    "timeWeek": 988,
-    "timeMonth": 840,
-    "timeYear": 661,
-    "dailyMinutesDown": {
-      "2021-03-15": 200
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 662,
+    "timeDay": 798,
+    "timeWeek": 838,
+    "timeMonth": 839,
+    "timeYear": 662,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MiBlogger",
@@ -85,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/miaostay.blogspot.com",
     "slug": "mi-blogger",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.88%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 125,
-    "timeWeek": 189,
-    "timeMonth": 151,
+    "timeDay": 261,
+    "timeWeek": 202,
+    "timeMonth": 154,
     "timeYear": 163,
-    "dailyMinutesDown": {
-      "2021-03-15": 200
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Miao Stay Bitwarden",
@@ -105,19 +95,17 @@
     "icon": "https://favicons.githubusercontent.com/bitwarden.miaostay.com",
     "slug": "miao-stay-bitwarden",
     "status": "up",
-    "uptime": "98.73%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "98.73%",
-    "time": 863,
-    "timeDay": 904,
-    "timeWeek": 924,
-    "timeMonth": 863,
-    "timeYear": 863,
-    "dailyMinutesDown": {
-      "2021-03-15": 200
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 857,
+    "timeDay": 784,
+    "timeWeek": 822,
+    "timeMonth": 857,
+    "timeYear": 857,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Miao Stay Jellyfin",
@@ -125,19 +113,17 @@
     "icon": "https://favicons.githubusercontent.com/jellyfin.miaostay.com",
     "slug": "miao-stay-jellyfin",
     "status": "up",
-    "uptime": "98.73%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "98.73%",
-    "time": 1497,
-    "timeDay": 1376,
-    "timeWeek": 1437,
-    "timeMonth": 1497,
-    "timeYear": 1497,
-    "dailyMinutesDown": {
-      "2021-03-15": 200
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1517,
+    "timeDay": 1882,
+    "timeWeek": 1497,
+    "timeMonth": 1517,
+    "timeYear": 1517,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Miao Stay Seedbox",
@@ -145,19 +131,17 @@
     "icon": "https://favicons.githubusercontent.com/sbpar.miaostay.com",
     "slug": "miao-stay-seedbox",
     "status": "up",
-    "uptime": "98.73%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "98.73%",
-    "time": 495,
-    "timeDay": 455,
-    "timeWeek": 512,
-    "timeMonth": 495,
-    "timeYear": 495,
-    "dailyMinutesDown": {
-      "2021-03-15": 200
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 503,
+    "timeDay": 603,
+    "timeWeek": 520,
+    "timeMonth": 503,
+    "timeYear": 503,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Miao Stay Paris",
@@ -165,19 +149,17 @@
     "icon": "https://favicons.githubusercontent.com/par.miaostay.com",
     "slug": "miao-stay-paris",
     "status": "up",
-    "uptime": "98.73%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "98.73%",
-    "time": 632,
-    "timeDay": 749,
-    "timeWeek": 746,
-    "timeMonth": 632,
-    "timeYear": 632,
-    "dailyMinutesDown": {
-      "2021-03-15": 200
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 627,
+    "timeDay": 576,
+    "timeWeek": 743,
+    "timeMonth": 627,
+    "timeYear": 627,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Miao Stay Grafana",
@@ -185,18 +167,16 @@
     "icon": "https://favicons.githubusercontent.com/grafana.miaostay.com",
     "slug": "miao-stay-grafana",
     "status": "up",
-    "uptime": "98.73%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "98.73%",
-    "time": 721,
-    "timeDay": 659,
-    "timeWeek": 820,
-    "timeMonth": 721,
-    "timeYear": 721,
-    "dailyMinutesDown": {
-      "2021-03-15": 200
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 711,
+    "timeDay": 592,
+    "timeWeek": 658,
+    "timeMonth": 711,
+    "timeYear": 711,
+    "dailyMinutesDown": {}
   }
 ]
