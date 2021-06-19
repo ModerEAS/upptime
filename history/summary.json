@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 1875,
     "timeDay": 919,
-    "timeWeek": 3095,
+    "timeWeek": 3334,
     "timeMonth": 2295,
     "timeYear": 1875,
     "dailyMinutesDown": {}
@@ -166,7 +166,7 @@
     "url": "https://grafana.miaostay.com",
     "icon": "https://favicons.githubusercontent.com/grafana.miaostay.com",
     "slug": "miao-stay-grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
