@@ -166,17 +166,17 @@
     "url": "https://grafana.miaostay.com",
     "icon": "https://favicons.githubusercontent.com/grafana.miaostay.com",
     "slug": "miao-stay-grafana",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1052,
-    "timeDay": 1543,
-    "timeWeek": 2034,
-    "timeMonth": 1431,
-    "timeYear": 1052,
+    "time": 1053,
+    "timeDay": 1354,
+    "timeWeek": 1925,
+    "timeMonth": 1422,
+    "timeYear": 1053,
     "dailyMinutesDown": {}
   }
 ]
