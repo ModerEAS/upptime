@@ -31,7 +31,7 @@
     "time": 178,
     "timeDay": 98,
     "timeWeek": 253,
-    "timeMonth": 191,
+    "timeMonth": 193,
     "timeYear": 178,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1897,
     "timeDay": 2062,
     "timeWeek": 2046,
-    "timeMonth": 1975,
+    "timeMonth": 1971,
     "timeYear": 1897,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 166,
     "timeDay": 142,
     "timeWeek": 142,
-    "timeMonth": 153,
+    "timeMonth": 149,
     "timeYear": 166,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 706,
     "timeDay": 648,
     "timeWeek": 719,
-    "timeMonth": 687,
+    "timeMonth": 686,
     "timeYear": 706,
     "dailyMinutesDown": {}
   },
@@ -112,17 +112,17 @@
     "url": "https://jellyfin.miaostay.com",
     "icon": "https://favicons.githubusercontent.com/jellyfin.miaostay.com",
     "slug": "miao-stay-jellyfin",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2037,
-    "timeDay": 1939,
-    "timeWeek": 1787,
+    "time": 2034,
+    "timeDay": 1906,
+    "timeWeek": 1791,
     "timeMonth": 2445,
-    "timeYear": 2037,
+    "timeYear": 2034,
     "dailyMinutesDown": {}
   },
   {
@@ -175,7 +175,7 @@
     "time": 1033,
     "timeDay": 765,
     "timeWeek": 863,
-    "timeMonth": 1336,
+    "timeMonth": 1327,
     "timeYear": 1033,
     "dailyMinutesDown": {}
   }
