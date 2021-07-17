@@ -13,7 +13,7 @@
     "time": 1139,
     "timeDay": 1209,
     "timeWeek": 1260,
-    "timeMonth": 1269,
+    "timeMonth": 1266,
     "timeYear": 1139,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1900,
     "timeDay": 1946,
     "timeWeek": 1982,
-    "timeMonth": 1979,
+    "timeMonth": 1976,
     "timeYear": 1900,
     "dailyMinutesDown": {}
   },
@@ -112,17 +112,17 @@
     "url": "https://jellyfin.miaostay.com",
     "icon": "https://favicons.githubusercontent.com/jellyfin.miaostay.com",
     "slug": "miao-stay-jellyfin",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1908,
-    "timeDay": 1671,
-    "timeWeek": 1467,
-    "timeMonth": 1967,
-    "timeYear": 1908,
+    "time": 1906,
+    "timeDay": 1641,
+    "timeWeek": 1461,
+    "timeMonth": 1966,
+    "timeYear": 1906,
     "dailyMinutesDown": {}
   },
   {
@@ -139,7 +139,7 @@
     "time": 494,
     "timeDay": 411,
     "timeWeek": 446,
-    "timeMonth": 468,
+    "timeMonth": 469,
     "timeYear": 494,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 498,
     "timeDay": 429,
     "timeWeek": 437,
-    "timeMonth": 439,
+    "timeMonth": 440,
     "timeYear": 498,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 1020,
     "timeDay": 912,
     "timeWeek": 934,
-    "timeMonth": 944,
+    "timeMonth": 943,
     "timeYear": 1020,
     "dailyMinutesDown": {}
   }
