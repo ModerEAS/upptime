@@ -112,17 +112,17 @@
     "url": "https://jellyfin.miaostay.com",
     "icon": "https://favicons.githubusercontent.com/jellyfin.miaostay.com",
     "slug": "miao-stay-jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1877,
-    "timeDay": 1784,
-    "timeWeek": 1387,
-    "timeMonth": 1876,
-    "timeYear": 1877,
+    "time": 1874,
+    "timeDay": 1851,
+    "timeWeek": 1398,
+    "timeMonth": 1874,
+    "timeYear": 1874,
     "dailyMinutesDown": {}
   },
   {
@@ -175,7 +175,7 @@
     "time": 1018,
     "timeDay": 738,
     "timeWeek": 929,
-    "timeMonth": 918,
+    "timeMonth": 910,
     "timeYear": 1018,
     "dailyMinutesDown": {}
   }
