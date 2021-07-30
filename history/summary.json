@@ -13,7 +13,7 @@
     "time": 1143,
     "timeDay": 1263,
     "timeWeek": 1199,
-    "timeMonth": 1254,
+    "timeMonth": 1251,
     "timeYear": 1143,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 176,
     "timeDay": 136,
     "timeWeek": 192,
-    "timeMonth": 182,
+    "timeMonth": 183,
     "timeYear": 176,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1900,
     "timeDay": 1931,
     "timeWeek": 1860,
-    "timeMonth": 1950,
+    "timeMonth": 1948,
     "timeYear": 1900,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 673,
     "timeDay": 887,
     "timeWeek": 697,
-    "timeMonth": 700,
+    "timeMonth": 699,
     "timeYear": 673,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 164,
     "timeDay": 124,
     "timeWeek": 167,
-    "timeMonth": 144,
+    "timeMonth": 146,
     "timeYear": 164,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 698,
     "timeDay": 743,
     "timeWeek": 646,
-    "timeMonth": 675,
+    "timeMonth": 673,
     "timeYear": 698,
     "dailyMinutesDown": {}
   },
@@ -112,17 +112,17 @@
     "url": "https://jellyfin.miaostay.com",
     "icon": "https://favicons.githubusercontent.com/jellyfin.miaostay.com",
     "slug": "miao-stay-jellyfin",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1643,
-    "timeDay": 829,
-    "timeWeek": 1444,
+    "time": 1642,
+    "timeDay": 836,
+    "timeWeek": 1441,
     "timeMonth": 1448,
-    "timeYear": 1643,
+    "timeYear": 1642,
     "dailyMinutesDown": {}
   },
   {
@@ -139,7 +139,7 @@
     "time": 500,
     "timeDay": 1008,
     "timeWeek": 638,
-    "timeMonth": 526,
+    "timeMonth": 530,
     "timeYear": 500,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 515,
     "timeDay": 407,
     "timeWeek": 499,
-    "timeMonth": 550,
+    "timeMonth": 555,
     "timeYear": 515,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 991,
     "timeDay": 654,
     "timeWeek": 696,
-    "timeMonth": 812,
+    "timeMonth": 806,
     "timeYear": 991,
     "dailyMinutesDown": {}
   }
