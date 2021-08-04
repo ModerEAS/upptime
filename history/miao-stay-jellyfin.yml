@@ -1,7 +1,7 @@
 url: https://jellyfin.miaostay.com
-status: up
-code: 200
-responseTime: 1070
-lastUpdated: 2021-08-04T05:06:55.066Z
+status: down
+code: 502
+responseTime: 652
+lastUpdated: 2021-08-04T14:59:38.053Z
 startTime: Fri Mar 19 2021 02:49:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
