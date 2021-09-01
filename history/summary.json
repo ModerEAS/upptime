@@ -112,7 +112,7 @@
     "url": "https://jellyfin.miaostay.com",
     "icon": "https://favicons.githubusercontent.com/jellyfin.miaostay.com",
     "slug": "miao-stay-jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -121,7 +121,7 @@
     "time": 1731,
     "timeDay": 1012,
     "timeWeek": 1847,
-    "timeMonth": 2310,
+    "timeMonth": 2359,
     "timeYear": 1731,
     "dailyMinutesDown": {}
   },
